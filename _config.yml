@@ -23,3 +23,5 @@ version:             1.0.0
 # Disqus Setup
 layout: default
 comments: true
+disqus:
+    shortname: narayanasvenkat-github-io
