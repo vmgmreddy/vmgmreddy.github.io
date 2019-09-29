@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Intro
+title: A little about myself!
 ---
 
-Hello there! I am Venkat  
+Hello there! I am Venkat Narayana :)  
 I am a Junior Year Computer Science Undergraduate from [IIT(BHU)](https://iitbhu.ac.in)  
+I occasionally write about Programming, Linguistics(Natural Language) and Philosophy  
+
 
 ### Built on Poole
 
