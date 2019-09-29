@@ -8,4 +8,6 @@ Hey! I am Venkat Narayana, Junior Year CS Undergrad from [IIT(BHU)](https://iitb
 The best way to get in touch with me is by [mail](mailto:narayana.svenkat.cse17@iitbhu.ac.in)  
 I like to keep things crisp and short here. Just in case, you want to view my [full profile](https://www.linkedin.com/in/narayanasvenkat)
 
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/"         title="Flaticon">www.flaticon.com</a></div>
+
 
