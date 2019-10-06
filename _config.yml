@@ -4,18 +4,18 @@
 permalink:           pretty
 
 # Setup
-title:               Venkat S. Narayana
+title:               Madhava Reddy V M
 tagline:             'Curiouser and Curiouser! '
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 narayanasvenkat.github.io
+url:                 vmgmreddy.github.io
 baseurl:             '/'
 paginate:            5
 
 # About/contact
 author:
-  name:              Venkat S Narayana
-  url:               https://twitter.com/venkatsnarayana
-  email:             narayana.svenkat.cse17@iitbhu.ac.in
+  name:              Madhava Reddy V M
+  url:               vmgmreddy.github.io
+  email:             vmgmreddy.cse17@iitbhu.ac.in
 
 # Custom vars
 version:             1.0.0
@@ -24,4 +24,4 @@ version:             1.0.0
 layout: default
 comments: true
 disqus:
-    shortname: narayanasvenkat-github-io
+    shortname: vmgmreddy-github-io
